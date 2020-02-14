@@ -6,7 +6,7 @@
 /*   By: kmira <kmira@student.42.fr>                +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/02/14 03:02:47 by kmira             #+#    #+#             */
-/*   Updated: 2020/02/14 13:38:56 by kmira            ###   ########.fr       */
+/*   Updated: 2020/02/14 14:28:38 by kmira            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,6 +14,12 @@
 #include <stdlib.h>
 
 #define NON_FACTOR 0
+
+/*
+** Rewrite using the log method.
+** Also reserach into gcd and its properties, use it more often
+** because it is a powerful concept.
+*/
 
 int		fetch_out_factor(int *num)
 {
