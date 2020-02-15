@@ -1,0 +1,30 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    0005_problem                                       :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: kmira <kmira@student.42.fr>                +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2020/02/14 16:43:20 by kmira             #+#    #+#              #
+#    Updated: 2020/02/14 20:25:29 by kmira            ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+Ah how far I have fallen. Thinking I was clever, but nay I say. Twice
+outshined. But rather than brood in my failure, I am quite pleased by
+the craftmanship of others. Kudos to goader, what precise and elegent
+understanding of the material.
+
+But this has given me a great perspective on what I could be
+capable of if I continue on my research. There is a rift between
+my mathematical skills and thier ease of application in The Code.
+I must get back in shape and dust off that old companion.
+
+Further Research needed:
+	Get comfortable with the attributes and properties of GCD and
+	LCM. Also try to gauge the topology of problem spaces were such
+	properties might be useful to exploit.
+
+	GCD for example has an interesting mod trick, that whilst I understand,
+	I might not have been able to easily manifest myself. Nevertheless
+	remember that we stand on the shoulders of giants.

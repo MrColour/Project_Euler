@@ -1,0 +1,29 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    0004_problem                                       :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: kmira <kmira@student.42.fr>                +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2020/02/14 16:20:04 by kmira             #+#    #+#              #
+#    Updated: 2020/02/14 16:43:04 by kmira            ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+I did sucessfully research up to level two of the overview pdf on my own.
+However even if had come up with level three of their research notes I would
+not have choosen to use them. Something about the statement:
+
+	"P must be at least 6 digits long since the palindrome 111111 = 143×777"
+
+doesn't rub with me. It seems that there is an essential step missing, or some
+assumption that might be difficult to spell out in the general case.
+
+For this reason I also attempted to publish my findings to the mages at Project Euler,
+I felt as I had achieved the some of the highest marks at least on this problem.
+There is however a further optimization that would be easy to add, that would make the
+concoction of this spell at least in the Albedo class range. But perhaps I am
+getting ahead of myself.
+
+Either way I need to remind myself to add that further optimization and attempt
+a purification cleanse.

@@ -1,0 +1,33 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    0002_problem                                       :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: kmira <kmira@student.42.fr>                +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2020/02/14 15:11:47 by kmira             #+#    #+#              #
+#    Updated: 2020/02/14 15:41:50 by kmira            ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+Currently wondering how much time would be appropriate to devote on
+investigating secrets of the Fibonacci sequence. Unfortunately I have
+other things I wish to juggle with my time; the alchemical alembic
+desires my attention.
+
+But I should attempt to prove a method to quickly calculate future
+Fibonacci numbers, as gloated by the overview pdf (I jest, they are worthy research notes).
+I have some idea of the required ingredients, it is just a matter of distilling
+the right process.
+
+I can't fathom any use cases for linear recurrence relations. To be more precise
+I can't come up with any use cases in which the usage of linear recurrence relations such
+as the Fibonacci, or Lucas numbers, would lead to simplification or dimensionality reduction
+of the problem manifold.
+
+They are however great at creating high order data, and produce beautiful results to say
+the least. A controlled gracefulness.
+
+Furthermore if they do appear in other places, it is perhaps coincidence of
+primal effects; it is this primal essence that I should master.
+From those steps beauty will follow...

@@ -1,0 +1,28 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    0001_problem                                       :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: kmira <kmira@student.42.fr>                +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2020/02/14 14:58:00 by kmira             #+#    #+#              #
+#    Updated: 2020/02/14 15:11:09 by kmira            ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+There is another way to calculate this answer.
+
+The overview pdf shows an artithmetic sequence method.
+This method has the best time complexity and at the time of writing this
+is the best solution I believe. I'll have to give this another go but not thinking
+of these problems as coding problems. I have lost touch with the powerful
+warehouse of math repertoire I once oversaw.
+
+In other news, I should consider creating time and space complexities for these
+problems. They have been good problems, and the forum is a good place to gauge
+where I currently stand and what I could improve.
+
+Further Reseach needed:
+	Find different use cases for artithmetic sequences and possibly
+	its cousin the geometric sequence. What are the topological landscapes of
+	problems where such approaches are suitable.

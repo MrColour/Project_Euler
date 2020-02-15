@@ -1,0 +1,32 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    0003_problem                                       :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: kmira <kmira@student.42.fr>                +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2020/02/14 15:43:50 by kmira             #+#    #+#              #
+#    Updated: 2020/02/14 16:19:54 by kmira            ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+If problems dealing with the primality of numbers continue to appear I should
+consider making something more suitable for dealing with numbers that have
+this attribute.
+
+Need for further research is inconclusive.
+
+The overview pdf, makes use of sqrt(3). I would be ever so careful dancing
+with floating point numbers. Unless proven with absolute need they should
+not be carelessly used by the laymans magicians. Not that writers of the overview pdf
+are your average magician, but rather that for my own safety I'll choose not to use
+that method for now.
+
+On that note, praise to the IEEE wizards for creating standards to safely
+contain this dangerous magic. Although I have acquired substainal certifiction
+on this magic, going so far as becoming proficient in the extraction of the
+sign, exponent and mantissa to the creation of infinite circles of ascii digits
+with these bits in both the art of double precision and x86 extended precision,
+I am still wary of the use of this powerful witchcraft. I would urge any magician
+in the study of the IEEE research notes before making claims about the magical
+constructs we take for granted.
