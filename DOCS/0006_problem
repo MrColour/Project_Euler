@@ -6,7 +6,7 @@
 #    By: kmira <kmira@student.42.fr>                +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2020/02/14 23:49:00 by kmira             #+#    #+#              #
-#    Updated: 2020/02/15 00:02:44 by kmira            ###   ########.fr        #
+#    Updated: 2020/02/15 00:21:27 by kmira            ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -19,3 +19,22 @@ useful. It gives me a method by which to cross verify that my
 steps are both sound and written correctly. Perhaps I should use it
 more often, but nothing quite beats the good old classic quill and scroll
 for making magical artifacts.
+
+Although the spell I created is a A rank (perhaps even an A+) spell, I
+didn't simplify the terms at the end. I was too lazy at the end of the day
+and wanted to get it done after the frustration it gave me. I should note that
+even the overview pdf didn't simplify the terms (PS this was hinted by a user
+so I need to conduct a follow up to ensure this information is actually true).
+
+To add to my studies is a research factory platform to better formalize my
+findings. LaTeX is the the obvious choice of language, but it is rather finicky
+about the scroll quality, and I would need to get a converter to see the end
+product.
+
+Further Research Needed:
+	I should make some automata spells for dealing with binomial equations.
+	Also would need to publish some research papers on the subject of binomials,
+	Pascals Triangle, and the summation of polynomials.
+
+	This might be the second or the third time I have proven and reresearch these
+	concepts.
