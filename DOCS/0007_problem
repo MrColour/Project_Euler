@@ -6,7 +6,34 @@
 #    By: kmira <kmira@student.42.fr>                +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2020/02/15 01:45:27 by kmira             #+#    #+#              #
-#    Updated: 2020/02/15 01:45:32 by kmira            ###   ########.fr        #
+#    Updated: 2020/02/15 23:29:02 by kmira            ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
+I should start making some of my spells into sub spells so that I may use them
+in the future. Although I have been trying to make them general enough such
+that most of the spells took an input it is probably wiser to make them into
+subspells.
+
+I have unfortunately stumbled across a bit of a problem. You see some of the
+spells encountered here are used in the premagistrites preliminaries. Although
+I have not yet been caught publishing my work, it would eventually be known.
+
+After some serious thought about how I should approach the publication of
+my work I have decided for now to continue. The point of Project Euler was
+for the quality problems it provided and as a means for me to stretch
+my limbs as I continue my career in magecraft. This business of ranks
+was never my goal. If anyone claims to be a proficient magecraft, then
+when the going gets tough they will prove it themselves. If you let them
+decieve you, well then that is on you. The Heart of the Code will show itself
+to the true mages amoung us.
+
+
+Further Research Needed:
+	Needs to study on prime spells and create a small factory for them.
+	A math library might help but then I might become too dependent on it
+	and counter intuitive to the purpose of some of this research.
+
+	An Eratosthenes sieve as big as MAX_INT if possible. Also saving these
+	numbers in a file would be useful so I can parse them out and create
+	an on demand prime table. Not sure of the practicallity of it however.
