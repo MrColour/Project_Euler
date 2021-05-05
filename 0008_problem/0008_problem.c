@@ -6,7 +6,7 @@
 /*   By: xinu <xinu@student.42.fr>                  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/05/04 22:21:13 by xinu              #+#    #+#             */
-/*   Updated: 2021/05/04 23:39:44 by xinu             ###   ########.fr       */
+/*   Updated: 2021/05/05 14:57:22 by xinu             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -36,8 +36,8 @@ int		main(void)
 "05886116467109405077541002256983155200055935729725" \
 "71636269561882670428252483600823257530420752963450";
 
-	int	i;
-	int	j;
+	size_t	i;
+	size_t	j;
 	unsigned long long	product;
 	unsigned long long	max = 0;
 
@@ -46,7 +46,6 @@ int		main(void)
 	while (i < 13)
 	{
 		product *= (digits[i] - '0');
-	printf("%d %lld\n", i, product);
 		i++;
 	}
 
@@ -66,10 +65,8 @@ int		main(void)
 			product /= (digits[i - 13] - '0');
 
 		product *= (digits[i] - '0');
-		printf("inner %d %llu\n", i, product);
 		if (product > max)
 		{
-			printf("Change %llu\n", product);
 			max = product;
 		}
 		i++;
